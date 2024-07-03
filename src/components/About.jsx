@@ -18,9 +18,9 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+        Bachelor of Technology (B.Tech) in Electronics and Communication Engineering, National Institute of Technology (NIT), Jamshedpur, 2021 - 2025
+
+
         </span>
         <br />
         <br />
@@ -28,10 +28,12 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+        Proficient in: Java, C++, Python
+Experienced with: React.js, Node.js, Tailwind CSS, Git, Visual Studio Code
+Strong grasp of: Object-Oriented Programming (OOP), Data Structures and Algorithms, Responsive Web Design
+Excellent problem-solving skills
+Effective communicator and collaborator
+
         </span>
         <br />
         <br />
@@ -39,11 +41,15 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+        Student, National Institute of Technology (NIT), Jamshedpur, 2021 - Present
+
+Engaged in coursework and projects in Electronics and Communication Engineering.
+Developed a strong foundation in programming languages such as Java, C++, and Python.
+Participated in various academic and extracurricular activities to enhance technical and soft skills.
+Freelance/Contract Work, Various Clients, 2022 - Present
+
+Real Estate Application: Developed a full-stack MERN Real Estate App that serves as a modern marketplace, showcasing property listings with features like search, filter, and user authentication.
+Portfolio Website: Created a responsive and functional portfolio website using React.js and Tailwind CSS to highlight projects and skills. The website is designed to be aesthetically pleasing and easy to navigate.
         </span>
         <br />
         <br />
@@ -51,8 +57,17 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+        Top Performer, Coding Ninjas, 2023
+
+Achieved top scores in advanced data structures and algorithms course, demonstrating exceptional problem-solving skills and proficiency in coding challenges.
+Pupil, Codeforces, 2023
+
+Reached the Pupil level on Codeforces, showcasing problem-solving abilities and competitive programming skills.
+3-Star Coder, CodeChef, 2023
+
+Earned a 3-star rating on CodeChef, highlighting proficiency in tackling complex programming problems in competitive coding contests.
+
+
         </span>
         <br />
         <br />
@@ -61,7 +76,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative tech solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.
